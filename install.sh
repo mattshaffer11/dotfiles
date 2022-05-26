@@ -7,6 +7,9 @@ sh <(curl https://j.mp/spf13-vim3 -L)
 # install oh-my-zsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
+# install Hammerspoon
+brew install --cask hammerspoon
+
 # install Silver Searcher
 brew install the_silver_searcher
 
