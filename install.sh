@@ -16,9 +16,6 @@ brew install the_silver_searcher
 # update Git version
 brew install git
 
-# install NVM
-brew install nvm
-
 # install Chrome
 brew install --cask google-chrome
 
@@ -39,6 +36,7 @@ cat << EOF
 
 Base setup complete! Other items to possibly install or setup:
 
+- NVM
 - Git
 - Docker
 EOF
