@@ -25,6 +25,9 @@ brew install --cask iterm2
 # install Postman
 brew install --cask postman
 
+# install Skitch
+brew install --cask skitch
+
 # install Webstorm
 brew install --cask webstorm
 
